@@ -12,7 +12,7 @@ function App() {
       <div className="bg-gray-50 h-screen  dark:bg-gray-800 dark:text-white">
         <Routes>
           <Route
-            path="/"
+            path="/countries"
             element={
               <>
                 <Filter />
