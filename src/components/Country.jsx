@@ -26,7 +26,7 @@ export default function Country() {
   return (
     <>
       <div className="pt-11 ml-20  dark:bg-gray-800 dark:text-white">
-        <Link to="/">
+        <Link to="/countries">
           <button
             className="bg-transparent lg:bg-white xl:bg-white md:bg-white text-center w-48 rounded-2xl h-14 relative text-black text-xl font-semibold group"
             type="button"
